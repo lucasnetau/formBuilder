@@ -894,7 +894,6 @@ textarea {
 .ui-state-highlight {
   border-radius: 3px;
   border: 1px dashed #0d99f2;
-  border-radius: 3px;
   background-color: #e5f5f8;
   width: 12px;
 }
@@ -931,8 +930,8 @@ textarea {
 }
 
 .rowWrapper {
-  margin-left: 0px !important;
-  margin-right: 0px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 .btnAddControl {
@@ -955,7 +954,7 @@ textarea {
 }
 
 .invisibleRowPlaceholder {
-  width: 0px !important;
+  width: 0 !important;
   position: fixed !important;
   left: -100px !important;
 }
