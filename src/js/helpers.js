@@ -1143,7 +1143,7 @@ export default class Helpers {
   }
 
   /**
-   * Process user options for actionButtons
+   * Process user configured options
    * @param  {Object} options
    * @return {Object} processedOptions
    */
